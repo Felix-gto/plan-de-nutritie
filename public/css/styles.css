@@ -1,0 +1,140 @@
+body {
+    background-color: #e1ffe0;
+}
+
+/* Navigation bar */
+.navbar {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: #8fd98a;
+}
+
+.navbar-nav {
+    font-weight: 500;
+}
+
+.pageTitle {
+    text-align: center;
+    padding-top: 1%;
+    font-size: 3rem;
+}
+
+.top-container {
+    padding: 2% 4% 4% 4%; 
+}
+
+.row {
+    background-color: #aeebb0;
+}
+
+.first_row {
+    padding-top: 1rem;
+}
+
+.last_row {
+    padding-bottom: 1rem;
+}
+
+.regula_nr {
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+/* Icon left in PX - depending on mobile responsiveness - change to rem or % ? */
+.icon {
+    width: 37px;
+    height: 37px;
+    display: flex;
+    margin: auto;
+    padding: 1%;
+}
+
+.citeste_mai_mult_icon {
+    width: 37px;
+    height: 37px;
+ padding: 0.2rem;
+}
+
+/* Citeste mai mult - Regulile detaliate */
+.hidden {
+    display: none;
+}
+
+/************* Faza 1 ***************/
+/* Tabel cu chenar commented-out */
+ /* .faza_tabel {
+     border: solid;
+    border-width:1px;
+ }  */
+
+.faza_row {
+    padding-top: 1rem;
+    /* border: solid;
+    border-width:1px; */
+}
+
+.faza_descriere {
+    /* border: solid;
+    border-width: 2px; */
+    padding: 1rem;
+    background-color: #aeebb0;
+}
+
+/************* Faza 2 ***************/
+/* Plan de mese */
+.card {
+    text-align: center;
+    margin: 1rem;
+    background-color: #e1ffe0;
+}
+
+.card-text-block{
+    background-color: #c7e3ff;
+}
+
+.card-masa {
+    background-color: #3DB2FF;
+}
+
+.timp_5h {
+    width: 4rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+.plan_de_mese {
+    text-align: center;
+}
+
+
+
+/************* Jurnal ***************/
+.under_construction {
+    text-align: center;
+}
+
+.img_under_construction {
+    width:70%;
+}
+
+/************* Footer ***************/
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+    text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #8fd98a;
+}
+
+.footer_paragraph {
+	margin-top: 25px;
+    padding-top: 15px;
+    text-align: center;
+  color: #fff;
+}
