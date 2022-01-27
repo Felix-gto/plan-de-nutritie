@@ -35,6 +35,6 @@ app.use(express.static("public"));
 
 
 // Server Running
-app.listen(4000, function(req, res) {
-    console.log("Server running on port 4000");
+app.listen(3000, function(req, res) {
+    console.log("Server running on port 3000");
 });
