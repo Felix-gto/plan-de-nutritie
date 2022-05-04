@@ -1,6 +1,6 @@
 # Plan de nutritie
 
-#### Node project created using [Embedded Javascript templating](https://ejs.co/), running on an [Express.js](https://expressjs.com/) server.
+#### Node project created using [Embedded Javascript templating](https://ejs.co/), running on an [Express.js](https://expressjs.com/) server, hosted on Heroku.
 
 #### Built at the request of my beautiful wife so she can have access to this information anywhere at any time 🙂.
 
